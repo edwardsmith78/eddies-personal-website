@@ -1,4 +1,11 @@
 body {
-    background: lightgreen;
-    border: 2px solid black;
+    background: gray;
+    border: 2px solid darkgray;
+  }
+  img {
+    width: 500px;
+    height: auto;
+  }
+h1 {
+    text-align: center;
   }
